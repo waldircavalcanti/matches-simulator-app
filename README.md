@@ -8,3 +8,6 @@ as implementações realizadas durante os seguintes conteúdos:
 
 2. Componentes, Layouts e UI/UX Em Apps Android
    - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/waldircavalcanti/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
+
+2. Java e Kotlin Juntos!
+   - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/waldircavalcanti/matches-simulator-app/treerelease/java-e-kotlin-juntos-construindo-apps-android)
