@@ -1,6 +1,6 @@
 # Matches Simulator App
 
-App Android Nativo de Simulação de partidas. Este repositório foi organizado em algumas branches que representam
+App Android Nativo de Simulação de partidas. Utilizando os dados fornecido pela api, gera dados aleatórios para simular a partida, levando em consideração a força de cada time. Este repositório foi organizado em algumas branches que representam
 as implementações realizadas durante os seguintes conteúdos:
 
 1. Desenvolvimento Mobile Nativo Para Android
